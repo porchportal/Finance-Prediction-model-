@@ -22,3 +22,5 @@ Prerequisites
 - FBProphet
 - yfinance
 - Matplotlib (for visualization)
+
+![](https://github.com/porchportal/Finance-Prediction-model-/blob/main/image.png)
