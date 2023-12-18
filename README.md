@@ -1,7 +1,5 @@
-# FinancePredictionmodel
+# FinancePredictionModel
 Stock Market Prediction Model: Prophet, LSTM, Linear Regression with PyTorch
-
-Stock Market Prediction Model
 
 Overview
 
