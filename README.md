@@ -23,4 +23,7 @@ Prerequisites
 - yfinance
 - Matplotlib (for visualization)
 
-![](https://github.com/porchportal/Finance-Prediction-model-/blob/main/image.png)
+![](https://github.com/porchportal/Finance-Prediction-model-/blob/main/All%20Image/IMG_1858.jpg)
+![](https://github.com/porchportal/Finance-Prediction-model-/blob/main/All%20Image/IMG_1861.jpg)
+![](https://github.com/porchportal/Finance-Prediction-model-/blob/main/All%20Image/IMG_1862.jpg)
+![](https://github.com/porchportal/Finance-Prediction-model-/blob/main/All%20Image/image.png)
