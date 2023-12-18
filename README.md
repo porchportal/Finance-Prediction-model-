@@ -16,9 +16,9 @@ Data Source: Utilizes Yahoo Finance for reliable and up-to-date stock data.
 Getting Started
 
 Prerequisites
-Python 3.6+
-PyTorch
-Pandas
-FBProphet
-yfinance
-Matplotlib (for visualization)
+-Python 3.6+
+-PyTorch
+-Pandas
+-FBProphet
+-yfinance
+-Matplotlib (for visualization)
